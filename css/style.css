@@ -128,7 +128,7 @@ background-image: url("../images/pexels-photo.jpg");
 
 background-size: cover;
 
-background-position: left bottom;
+background-position: left top;
 
 
 
@@ -400,7 +400,7 @@ article[role="pge-title-content"].contact-header p a:hover{color:#F2D388; text-d
 
 /*== Work Details ==*/
 
-.work-details,.blog-details{ padding:0 69px; margin-top:73px}
+.work-details,.blog-details{ padding:60px; margin-top:73px}
 
 .work-details header h2{ color:#343434; font-size:36px; font-weight:800}
 
